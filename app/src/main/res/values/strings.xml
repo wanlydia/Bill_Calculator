@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amt">AMOUNT</string>
+    <string name="pax">NO. OF PAX</string>
+    <string name="no_gst">NO GST</string>
+    <string name="gst">GST</string>
+    <string name="no_svs">NO SVS</string>
+    <string name="svs">SVS</string>
+    <string name="payment_method">PAYMENT METHOD</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">PayNow</string>
+    <string name="enter_discount">Enter Discount</string>
+    <string name="discount">Discount (%):</string>
+    <string name="title">Bill Calculator</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+</resources>
